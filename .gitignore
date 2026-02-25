@@ -1,0 +1,9 @@
+*.vcfg
+pwa*.cfg
+gamemode_*.cfg
+gamestate_*.cfg
+f5*.cfg
+5e*.cfg
+.history/
+CS2-Config-Presets-master/
+server*.cfg
