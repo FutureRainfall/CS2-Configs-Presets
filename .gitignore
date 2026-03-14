@@ -7,3 +7,4 @@ f5*.cfg
 .history/
 CS2-Config-Presets-master/
 server*.cfg
+devonly/
